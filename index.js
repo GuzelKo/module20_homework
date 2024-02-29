@@ -66,4 +66,3 @@ const addBtn = document.getElementById("addBtn");
 addBtn === null || addBtn === void 0 ? void 0 : addBtn.addEventListener('click', () => {
     newElement();
 });
-export {};
